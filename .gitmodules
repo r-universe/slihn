@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ecd"]
+	path = ecd
+	url = https://github.com/cran/ecd
+	shallow = true
+	registered = true
+[submodule "jubilee"]
+	path = jubilee
+	url = https://github.com/cran/jubilee
+	shallow = true
+	registered = true
+[submodule "ldhmm"]
+	path = ldhmm
+	url = https://github.com/cran/ldhmm
+	shallow = true
+	registered = true
